@@ -2,6 +2,7 @@
 
 
 takeaways -
+verify models using MAE
 
 how do I build a decision tree?
 https://www.kaggle.com/code/taedubb/exercise-your-first-machine-learning-model
