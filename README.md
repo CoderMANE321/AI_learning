@@ -1,5 +1,8 @@
 # AI_learning
 
+R statistics 
+https://colab.research.google.com/drive/1ce65f0sgqaMcOJqdHvxcZnqi7zVGwym5?usp=sharing
+
 
 takeaways -
 verify models using MAE
