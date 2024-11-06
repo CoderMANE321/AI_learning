@@ -4,12 +4,13 @@ R statistics
 https://colab.research.google.com/drive/1ce65f0sgqaMcOJqdHvxcZnqi7zVGwym5?usp=sharing
 
 
-takeaways -
-preprocess data use imputation or dropping tables
-when dealing with categorical data preprocess 
-  - use ordinal encoding for decision_tree or random_forest
-  - one hot enconding for unordered
-  - drop columns if data is unnecessary
+takeaways - explore data, clean data, validate model using MSE, test model with different estimators
+
+  preprocess data use imputation or dropping tables
+  when dealing with categorical data preprocess 
+    - use ordinal encoding for decision_tree or random_forest
+    - one hot enconding for unordered
+    - drop columns if data is unnecessary
 
 verify models and clean data then use MAE to score model
 
