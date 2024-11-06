@@ -10,6 +10,7 @@ when dealing with categorical data preprocess
   - use ordinal encoding for decision_tree or random_forest
   - one hot enconding for unordered
   - drop columns if data is unnecessary
+
 verify models and clean data then use MAE to score model
 
 how do I build a decision tree?
